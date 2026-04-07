@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(139, 0, 130);
+}
+
+.titulo{
+        color: rgb(255, 238, 0);
+       text-align: center;
+       }
+
+        p{
+            color: black;
+            font-size: 30px;
+            text-align:center;
+            justify-content: center;
+        }
